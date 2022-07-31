@@ -1,0 +1,420 @@
+<-----------Luffy---'R'----------->
+4	Luffy 'C'
+1	Zoro 'C'
+2	Nami 'C'
+2	Usopp 'C'
+3	Sanji 'C'
+1	Chopper 'C'
+Not Found
+Not Found
+Not Found
+<-----------Sanji---'R'----------->
+1	Luffy 'C'
+1	Zoro 'C'
+1	Nami 'C'
+Not Found
+4	Sanji 'C'
+3	Chopper 'C'
+2	Buggy 'C'
+Not Found
+1	Swordsman 'C'
+<-----------Zoro---'R'----------->
+Not Found
+5	Zoro 'C'
+Not Found
+Not Found
+1	Sanji 'C'
+2	Chopper 'C'
+Not Found
+2	Gunman 'C'
+2	Swordsman 'C'
+<-----------Mihawk---'R'----------->
+Not Found
+4	Zoro 'C'
+1	Nami 'C'
+Not Found
+Not Found
+1	Chopper 'C'
+Not Found
+2	Gunman 'C'
+4	Swordsman 'C'
+<-----------Boa Hancock---'R'----------->
+4	Luffy 'C'
+Not Found
+5	Nami 'C'
+Not Found
+Not Found
+Not Found
+Not Found
+2	Gunman 'C'
+Not Found
+<-----------Crocodile---'R'----------->
+2	Luffy 'C'
+1	Zoro 'C'
+2	Nami 'C'
+3	Usopp 'C'
+2	Sanji 'C'
+Not Found
+4	Buggy 'C'
+1	Gunman 'C'
+2	Swordsman 'C'
+<-----------Vivi---'R'----------->
+1	Luffy 'C'
+Not Found
+3	Nami 'C'
+3	Usopp 'C'
+Not Found
+1	Chopper 'C'
+1	Buggy 'C'
+2	Gunman 'C'
+2	Swordsman 'C'
+<-----------Baby 5---'R'----------->
+5	Luffy 'C'
+2	Zoro 'C'
+1	Nami 'C'
+3	Usopp 'C'
+1	Sanji 'C'
+1	Chopper 'C'
+Not Found
+Not Found
+2	Swordsman 'C'
+<-----------Sentomaru---'R'----------->
+2	Luffy 'C'
+1	Zoro 'C'
+1	Nami 'C'
+1	Usopp 'C'
+1	Sanji 'C'
+3	Chopper 'C'
+2	Buggy 'C'
+1	Gunman 'C'
+2	Swordsman 'C'
+<-----------Garp---'R'----------->
+3	Luffy 'C'
+Not Found
+Not Found
+Not Found
+Not Found
+1	Chopper 'C'
+Not Found
+3	Gunman 'C'
+5	Swordsman 'C'
+<-----------Magellan---'R'----------->
+3	Luffy 'C'
+Not Found
+Not Found
+1	Usopp 'C'
+Not Found
+Not Found
+6	Buggy 'C'
+3	Gunman 'C'
+2	Swordsman 'C'
+<-----------Momonga---'R'----------->
+1	Luffy 'C'
+2	Zoro 'C'
+Not Found
+Not Found
+1	Sanji 'C'
+1	Chopper 'C'
+3	Buggy 'C'
+3	Gunman 'C'
+4	Swordsman 'C'
+<-----------Blackbeard---'R'----------->
+3	Luffy 'C'
+Not Found
+1	Nami 'C'
+2	Usopp 'C'
+Not Found
+3	Chopper 'C'
+Not Found
+3	Gunman 'C'
+3	Swordsman 'C'
+<-----------Akainu---'R'----------->
+3	Luffy 'C'
+2	Zoro 'C'
+Not Found
+4	Usopp 'C'
+2	Sanji 'C'
+Not Found
+1	Buggy 'C'
+2	Gunman 'C'
+Not Found
+<-----------Aokiji---'R'----------->
+2	Luffy 'C'
+Not Found
+3	Nami 'C'
+3	Usopp 'C'
+3	Sanji 'C'
+4	Chopper 'C'
+Not Found
+Not Found
+Not Found
+<-----------Kizaru---'R'----------->
+2	Luffy 'C'
+2	Zoro 'C'
+1	Nami 'C'
+Not Found
+1	Sanji 'C'
+3	Chopper 'C'
+3	Buggy 'C'
+1	Gunman 'C'
+1	Swordsman 'C'
+<-----------Kaku---'R'----------->
+1	Luffy 'C'
+Not Found
+3	Nami 'C'
+Not Found
+3	Sanji 'C'
+2	Chopper 'C'
+Not Found
+2	Gunman 'C'
+4	Swordsman 'C'
+<-----------Law---'R'----------->
+3	Luffy 'C'
+1	Zoro 'C'
+1	Nami 'C'
+2	Usopp 'C'
+1	Sanji 'C'
+3	Chopper 'C'
+2	Buggy 'C'
+1	Gunman 'C'
+1	Swordsman 'C'
+<-----------Burgess---'R'----------->
+1	Luffy 'C'
+Not Found
+1	Nami 'C'
+1	Usopp 'C'
+1	Sanji 'C'
+Not Found
+4	Buggy 'C'
+5	Gunman 'C'
+Not Found
+<-----------Basil Hawkin Strawman Form---'R'----------->
+1	Luffy 'C'
+1	Zoro 'C'
+1	Nami 'C'
+1	Usopp 'C'
+Not Found
+2	Chopper 'C'
+3	Buggy 'C'
+4	Gunman 'C'
+2	Swordsman 'C'
+<-----------Oars---'R'----------->
+3	Luffy 'C'
+4	Zoro 'C'
+Not Found
+Not Found
+2	Sanji 'C'
+4	Chopper 'C'
+Not Found
+Not Found
+Not Found
+<-----------Ryuma---'R'----------->
+Not Found
+3	Zoro 'C'
+1	Nami 'C'
+2	Usopp 'C'
+1	Sanji 'C'
+2	Chopper 'C'
+1	Buggy 'C'
+Not Found
+1	Swordsman 'C'
+<-----------Perona---'R'----------->
+Not Found
+Not Found
+3	Nami 'C'
+Not Found
+4	Sanji 'C'
+2	Chopper 'C'
+2	Buggy 'C'
+Not Found
+Not Found
+<-----------Sugar---'R'----------->
+Not Found
+3	Zoro 'C'
+2	Nami 'C'
+1	Usopp 'C'
+1	Sanji 'C'
+2	Chopper 'C'
+2	Buggy 'C'
+Not Found
+Not Found
+<-----------Brook---'R'----------->
+1	Luffy 'C'
+3	Zoro 'C'
+1	Nami 'C'
+Not Found
+2	Sanji 'C'
+3	Chopper 'C'
+Not Found
+Not Found
+2	Swordsman 'C'
+<-----------Doflamingo---'R'----------->
+1	Luffy 'C'
+1	Zoro 'C'
+1	Nami 'C'
+Not Found
+2	Sanji 'C'
+2	Chopper 'C'
+3	Buggy 'C'
+Not Found
+3	Swordsman 'C'
+<-----------Chopper Horn Point---'R'----------->
+1	Luffy 'C'
+3	Zoro 'C'
+Not Found
+Not Found
+2	Sanji 'C'
+4	Chopper 'C'
+1	Buggy 'C'
+1	Gunman 'C'
+2	Swordsman 'C'
+<-----------Shanks---'R'----------->
+3	Luffy 'C'
+Not Found
+Not Found
+4	Usopp 'C'
+Not Found
+Not Found
+3	Buggy 'C'
+Not Found
+Not Found
+<-----------Ben_Beckman---'R'----------->
+1	Luffy 'C'
+Not Found
+Not Found
+6	Usopp 'C'
+1	Sanji 'C'
+1	Chopper 'C'
+Not Found
+2	Gunman 'C'
+2	Swordsman 'C'
+<-----------Usopp---'R'----------->
+Not Found
+Not Found
+3	Nami 'C'
+4	Usopp 'C'
+Not Found
+Not Found
+1	Buggy 'C'
+1	Gunman 'C'
+2	Swordsman 'C'
+<-----------Ivankov---'R'----------->
+1	Luffy 'C'
+2	Zoro 'C'
+2	Nami 'C'
+3	Usopp 'C'
+4	Sanji 'C'
+1	Chopper 'C'
+1	Buggy 'C'
+Not Found
+Not Found
+<-----------Sabo---'R'----------->
+3	Luffy 'C'
+3	Zoro 'C'
+Not Found
+1	Usopp 'C'
+3	Sanji 'C'
+1	Chopper 'C'
+Not Found
+3	Gunman 'C'
+Not Found
+<-----------Marco---'R'----------->
+1	Luffy 'C'
+1	Zoro 'C'
+Not Found
+Not Found
+2	Sanji 'C'
+3	Chopper 'C'
+Not Found
+5	Gunman 'C'
+3	Swordsman 'C'
+<-----------Diamond_Jozu---'R'----------->
+1	Luffy 'C'
+1	Zoro 'C'
+2	Nami 'C'
+1	Usopp 'C'
+Not Found
+2	Chopper 'C'
+1	Buggy 'C'
+2	Gunman 'C'
+3	Swordsman 'C'
+<-----------Bartolomeo---'R'----------->
+3	Luffy 'C'
+2	Zoro 'C'
+3	Nami 'C'
+2	Usopp 'C'
+Not Found
+Not Found
+Not Found
+3	Gunman 'C'
+1	Swordsman 'C'
+<-----------Vander Decken---'R'----------->
+2	Luffy 'C'
+2	Zoro 'C'
+2	Nami 'C'
+Not Found
+1	Sanji 'C'
+1	Chopper 'C'
+3	Buggy 'C'
+3	Gunman 'C'
+2	Swordsman 'C'
+<-----------Wyper---'R'----------->
+1	Luffy 'C'
+Not Found
+Not Found
+6	Usopp 'C'
+4	Sanji 'C'
+1	Chopper 'C'
+Not Found
+Not Found
+Not Found
+<-----------Zeff---'R'----------->
+Not Found
+3	Zoro 'C'
+3	Nami 'C'
+1	Usopp 'C'
+4	Sanji 'C'
+Not Found
+1	Buggy 'C'
+2	Gunman 'C'
+Not Found
+<-----------Kid---'R'----------->
+1	Luffy 'C'
+1	Zoro 'C'
+4	Nami 'C'
+Not Found
+Not Found
+2	Chopper 'C'
+3	Buggy 'C'
+1	Gunman 'C'
+1	Swordsman 'C'
+<-----------Kinemon---'R'----------->
+2	Luffy 'C'
+2	Zoro 'C'
+1	Nami 'C'
+1	Usopp 'C'
+Not Found
+1	Chopper 'C'
+1	Buggy 'C'
+4	Gunman 'C'
+2	Swordsman 'C'
+<-----------Shiryu---'R'----------->
+Not Found
+Not Found
+Not Found
+Not Found
+3	Sanji 'C'
+1	Chopper 'C'
+1	Buggy 'C'
+2	Gunman 'C'
+5	Swordsman 'C'
+<-----------Xdrake---'R'----------->
+1	Luffy 'C'
+Not Found
+3	Nami 'C'
+1	Usopp 'C'
+Not Found
+1	Chopper 'C'
+1	Buggy 'C'
+5	Gunman 'C'
+3	Swordsman 'C'

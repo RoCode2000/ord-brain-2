@@ -1,0 +1,130 @@
+<-----------Ace---'U'----------->
+1	Luffy 'C'
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+1	Gunman 'C'
+Not Found
+<-----------Robin---'U'----------->
+Not Found
+Not Found
+1	Nami 'C'
+Not Found
+1	Sanji 'C'
+Not Found
+Not Found
+Not Found
+Not Found
+<-----------Brook---'U'----------->
+Not Found
+1	Zoro 'C'
+Not Found
+Not Found
+Not Found
+1	Chopper 'C'
+Not Found
+Not Found
+Not Found
+<-----------Sogeking---'U'----------->
+Not Found
+Not Found
+Not Found
+2	Usopp 'C'
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+<-----------Franky---'U'----------->
+1	Luffy 'C'
+Not Found
+Not Found
+1	Usopp 'C'
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+<-----------Fukuro---'U'----------->
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+2	Swordsman 'C'
+<-----------Tashigi---'U'----------->
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+1	Gunman 'C'
+1	Swordsman 'C'
+<-----------Blueno---'U'----------->
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+2	Gunman 'C'
+Not Found
+<-----------Hatchan---'U'----------->
+Not Found
+Not Found
+1	Nami 'C'
+Not Found
+Not Found
+Not Found
+Not Found
+1	Gunman 'C'
+Not Found
+<-----------Perona---'U'----------->
+Not Found
+Not Found
+1	Nami 'C'
+Not Found
+Not Found
+Not Found
+1	Buggy 'C'
+Not Found
+Not Found
+<-----------Inazuma---'U'----------->
+Not Found
+1	Zoro 'C'
+Not Found
+Not Found
+1	Sanji 'C'
+Not Found
+Not Found
+Not Found
+Not Found
+<-----------Bepo---'U'----------->
+1	Luffy 'C'
+Not Found
+Not Found
+Not Found
+Not Found
+1	Chopper 'C'
+Not Found
+Not Found
+Not Found
+<-----------Chopper---'U'----------->
+Not Found
+Not Found
+Not Found
+Not Found
+Not Found
+2	Chopper 'C'
+Not Found
+Not Found
+Not Found
