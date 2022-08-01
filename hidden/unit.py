@@ -1,5 +1,3 @@
-import sys
-sys.path.append('../Noob Folder')
 from creation import *
 from common.unit import *
 from uncommon.unit import *
@@ -28,3 +26,4 @@ killer_hidden = HiddenQuad('Killer_Hidden', kid_rare, helmeppo_special, killer_s
 bon_clay_hidden = HiddenQuad('Bon_Clay_Hidden', boa_hancock_rare, bon_clay_special, buggy_special, inazuma_special)
 moby_dick_hidden = HiddenQuad('Moby_Dick_Hidden', diamond_jozu_rare, marco_special, ace_uncommon, pirate_ship)
 ark_maxim_hidden = HiddenQuad('Ark_Maxim_Hidden', wyper_rare, usopp_rare, capone_special, pirate_ship)
+carrot_hidden = HiddenPen('carrot_hidden', chopper_horn_point_rare, enel_special, absalom_special, absalom_special, rayleigh_hidden_rare)

@@ -1,5 +1,3 @@
-import sys
-sys.path.append('../Noob Folder')
 from creation import *
 
 luffy_common = Common("luffy_common")

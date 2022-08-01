@@ -1,5 +1,3 @@
-import sys
-sys.path.append('../Noob Folder')
 from creation import *
 from common.unit import *
 from uncommon.unit import *

@@ -30,8 +30,8 @@ class Uncommon():
         self.material1 = material1
         self.material2 = material2
 
-    def __str__(self):
-        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2}"
+    # def __str__(self):
+    #     return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2}"
 
     def base(self):
         return f"{self.name} {self.tier}, {self.material1} {self.material2}"
@@ -58,8 +58,8 @@ class SpecialDoubleClass():
         self.material1 = material1
         self.material2 = material2
 
-    def __str__(self) -> str:
-        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2}"
+    # def __str__(self) -> str:
+    #     return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2}"
 
     def base(self):
         return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2}"
@@ -73,8 +73,8 @@ class SpecialQuadClass():
         self.material3 = material3
         self.material4 = material4
 
-    def __str__(self) -> str:
-        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4}"
+    # def __str__(self) -> str:
+    #     return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4}"
 
     def base(self):
         return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4}"
@@ -88,8 +88,8 @@ class Rare():
         self.material2 = material2
         self.material3 = material3
 
-    def __str__(self):
-        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3}"
+    # def __str__(self):
+    #     return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3}"
 
     def base(self):
         return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3}"
@@ -103,8 +103,8 @@ class RareQuadClass():
         self.material3 = material3
         self.material4 = material4
 
-    def __str__(self):
-        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4}"
+    # def __str__(self):
+    #     return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4}"
 
     def base(self):
         return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4}"
@@ -119,8 +119,8 @@ class RarePenClass():
         self.material4 = material4
         self.material5 = material5
 
-    def __str__(self):
-        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4} \n{self.material5}"
+    # def __str__(self):
+    #     return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4} \n{self.material5}"
 
     def base(self):
         return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4} \n{self.material5}"
@@ -131,8 +131,8 @@ class Legendary(Rare):
     def __init__(self, name, material1, material2, material3):
         super().__init__(name, material1, material2, material3)
 
-    def __str__(self):
-        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3}"
+    # def __str__(self):
+    #     return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3}"
 
     def base(self):
         return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3}"
@@ -146,8 +146,8 @@ class LegendaryQuad():
         self.material3 = material3
         self.material4 = material4
 
-    def __str__(self) -> str:
-        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4}"
+    # def __str__(self) -> str:
+    #     return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4}"
 
     def base(self):
         return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4}"
@@ -161,8 +161,8 @@ class Immortal():
         self.material2 = material2
         self.material3 = material3
 
-    def __str__(self) -> str:
-        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3}"
+    # def __str__(self) -> str:
+    #     return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3}"
 
     def base(self):
         return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3}"
@@ -176,8 +176,8 @@ class HiddenTriple():
         self.material2 = material2
         self.material3 = material3
 
-    def __str__(self) -> str:
-        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3}"
+    # def __str__(self) -> str:
+    #     return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3}"
 
     def base(self):
         return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3}"
@@ -191,8 +191,8 @@ class HiddenQuad():
         self.material3 = material3
         self.material4 = material4
 
-    def __str__(self) -> str:
-        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4}"
+    # def __str__(self) -> str:
+    #     return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4}"
 
     def base(self):
         return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4}"
@@ -207,9 +207,53 @@ class HiddenPen():
         self.material4 = material4
         self.material5 = material5
 
-    def __str__(self) -> str:
-        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4} \n{self.material5}"
+    # def __str__(self) -> str:
+    #     return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4} \n{self.material5}"
 
     def base(self):
         return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4} \n{self.material5}"
+# Alternate Unit
+class Alternate:
+    tier = "'A'"
+    def __init__(self, name):
+        self.name = name
 
+    # def __str__(self) -> str:
+    #     return f"{self.name} {self.tier}"
+
+    def base(self):
+        return f"{self.name} {self.tier}"
+# Transcended
+class TranscendedQuad:
+    def __init__(self, name, material1, material2, material3, material4):
+        self.name = name
+        self.material1 = material1
+        self.material2 = material2
+        self.material3 = material3
+        self.material4 = material4
+
+    def base(self):
+        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4}"
+class TranscendedPen:
+    def __init__(self, name, material1, material2, material3, material4, material5):
+        self.name = name
+        self.material1 = material1
+        self.material2 = material2
+        self.material3 = material3
+        self.material4 = material4
+        self.material5 = material5
+
+    def base(self):
+        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4} \n{self.material5}"
+class TranscendedHex:
+    def __init__(self, name, material1, material2, material3, material4, material5, material6):
+        self.name = name
+        self.material1 = material1
+        self.material2 = material2
+        self.material3 = material3
+        self.material4 = material4
+        self.material5 = material5
+        self.material6 = material6
+
+    def base(self):
+        return f"{self.name} {self.tier}, \n{self.material1} \n{self.material2} \n{self.material3} \n{self.material4} \n{self.material5} \n{self.material6}"
