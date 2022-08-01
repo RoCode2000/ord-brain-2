@@ -1,0 +1,27 @@
+-------------------
+name = luffy_common
+
+-------------------
+name = zoro_common
+
+-------------------
+name = nami_common
+
+-------------------
+name = sanji_common
+
+-------------------
+name = usopp_common
+
+-------------------
+name = chopper_common
+
+-------------------
+name = buggy_common
+
+-------------------
+name = gunman_common
+
+-------------------
+name = swordsman_common
+

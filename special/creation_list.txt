@@ -1,0 +1,300 @@
+-------------------
+name = luffy_special
+	|_name = luffy_common
+	|_name = luffy_common
+	|_name = luffy_common
+
+-------------------
+name = nami_special
+	|_name = nami_common
+	|_name = nami_common
+	|_name = nami_common
+
+-------------------
+name = sanji_special
+	|_name = sanji_common
+	|_name = sanji_common
+	|_name = sanji_common
+
+-------------------
+name = zoro_special
+	|_name = zoro_common
+	|_name = zoro_common
+	|_name = zoro_common
+
+-------------------
+name = buggy_special
+	|_name = buggy_common
+	|_name = buggy_common
+	|_name = buggy_common
+
+-------------------
+name = robin_special
+	|_name = robin_uncommon
+		|_name:nami_common
+		|_name:sanji_common
+	|_name = robin_uncommon
+		|_name:nami_common
+		|_name:sanji_common
+	|_name = chopper_common
+
+-------------------
+name = marco_special
+	|_name = blueno_uncommon
+		|_name:gunman_common
+		|_name:gunman_common
+	|_name = ace_uncommon
+		|_name:luffy_common
+		|_name:gunman_common
+	|_name = sanji_common
+
+-------------------
+name = chaka_special
+	|_name = blueno_uncommon
+		|_name:gunman_common
+		|_name:gunman_common
+	|_name = fukuro_uncommon
+		|_name:swordsman_common
+		|_name:swordsman_common
+	|_name = chopper_common
+
+-------------------
+name = rob_lucci_special
+	|_name = fukuro_uncommon
+		|_name:swordsman_common
+		|_name:swordsman_common
+	|_name = robin_uncommon
+		|_name:nami_common
+		|_name:sanji_common
+	|_name = luffy_common
+
+-------------------
+name = capone_special
+	|_name = fukuro_uncommon
+		|_name:swordsman_common
+		|_name:swordsman_common
+	|_name = gunman_common
+	|_name = buggy_common
+
+-------------------
+name = law_special
+	|_name = bepo_uncommon
+		|_name:chopper_common
+		|_name:luffy_common
+	|_name = tashigi_uncommon
+		|_name:swordsman_common
+		|_name:gunman_common
+	|_name = buggy_common
+
+-------------------
+name = kuma_special
+	|_name = bepo_uncommon
+		|_name:chopper_common
+		|_name:luffy_common
+	|_name = franky_uncommon
+		|_name:usopp_common
+		|_name:luffy_common
+	|_name = zoro_common
+
+-------------------
+name = xdrake_special
+	|_name = tashigi_uncommon
+		|_name:swordsman_common
+		|_name:gunman_common
+	|_name = fukuro_uncommon
+		|_name:swordsman_common
+		|_name:swordsman_common
+	|_name = chopper_common
+
+-------------------
+name = killer_special
+	|_name = tashigi_uncommon
+		|_name:swordsman_common
+		|_name:gunman_common
+	|_name = brook_uncommon
+		|_name:zoro_common
+		|_name:chopper_common
+	|_name = buggy_common
+
+-------------------
+name = smoker_special
+	|_name = gunman_common
+	|_name = tashigi_uncommon
+		|_name:swordsman_common
+		|_name:gunman_common
+	|_name = swordsman_common
+
+-------------------
+name = bon_clay_special
+	|_name = inazuma_uncommon
+		|_name:sanji_common
+		|_name:zoro_common
+	|_name = robin_uncommon
+		|_name:nami_common
+		|_name:sanji_common
+	|_name = nami_common
+
+-------------------
+name = inazuma_special
+	|_name = inazuma_uncommon
+		|_name:sanji_common
+		|_name:zoro_common
+	|_name = inazuma_uncommon
+		|_name:sanji_common
+		|_name:zoro_common
+
+-------------------
+name = franky_special
+	|_name = franky_uncommon
+		|_name:usopp_common
+		|_name:luffy_common
+	|_name = franky_uncommon
+		|_name:usopp_common
+		|_name:luffy_common
+	|_name = zoro_common
+
+-------------------
+name = crocodile_special
+	|_name = franky_uncommon
+		|_name:usopp_common
+		|_name:luffy_common
+	|_name = sogeking_uncommon
+		|_name:usopp_common
+		|_name:usopp_common
+	|_name = buggy_common
+
+-------------------
+name = moria_special
+	|_name = brook_uncommon
+		|_name:zoro_common
+		|_name:chopper_common
+	|_name = brook_uncommon
+		|_name:zoro_common
+		|_name:chopper_common
+	|_name = sanji_common
+
+-------------------
+name = helmeppo_special
+	|_name = brook_uncommon
+		|_name:zoro_common
+		|_name:chopper_common
+	|_name = zoro_common
+	|_name = sanji_common
+
+-------------------
+name = ace_special
+	|_name = ace_uncommon
+		|_name:luffy_common
+		|_name:gunman_common
+	|_name = ace_uncommon
+		|_name:luffy_common
+		|_name:gunman_common
+	|_name = usopp_common
+
+-------------------
+name = jinbe_special
+	|_name = ace_uncommon
+		|_name:luffy_common
+		|_name:gunman_common
+	|_name = fukuro_uncommon
+		|_name:swordsman_common
+		|_name:swordsman_common
+	|_name = buggy_special
+		|_name:buggy_common
+		|_name:buggy_common
+		|_name:buggy_common
+
+-------------------
+name = arlong_special
+	|_name = hatchan_uncommon
+		|_name:nami_common
+		|_name:gunman_common
+	|_name = hatchan_uncommon
+		|_name:nami_common
+		|_name:gunman_common
+	|_name = luffy_common
+
+-------------------
+name = kuro_special
+	|_name = hatchan_uncommon
+		|_name:nami_common
+		|_name:gunman_common
+	|_name = swordsman_common
+	|_name = zoro_common
+
+-------------------
+name = squard_special
+	|_name = chopper_uncommon
+		|_name:chopper_common
+		|_name:chopper_common
+	|_name = franky_uncommon
+		|_name:usopp_common
+		|_name:luffy_common
+	|_name = nami_common
+
+-------------------
+name = chopper_rumble_special
+	|_name = chopper_uncommon
+		|_name:chopper_common
+		|_name:chopper_common
+	|_name = inazuma_uncommon
+		|_name:sanji_common
+		|_name:zoro_common
+	|_name = swordsman_common
+
+-------------------
+name = chopper_brain_special
+	|_name = chopper_uncommon
+		|_name:chopper_common
+		|_name:chopper_common
+	|_name = robin_uncommon
+		|_name:nami_common
+		|_name:sanji_common
+	|_name = buggy_common
+
+-------------------
+name = basil_hawkin_special
+	|_name = perona_uncommon
+		|_name:buggy_common
+		|_name:nami_common
+	|_name = blueno_uncommon
+		|_name:gunman_common
+		|_name:gunman_common
+	|_name = usopp_common
+
+-------------------
+name = kid_special
+	|_name = perona_uncommon
+		|_name:buggy_common
+		|_name:nami_common
+	|_name = bepo_uncommon
+		|_name:chopper_common
+		|_name:luffy_common
+	|_name = buggy_common
+
+-------------------
+name = enel_special
+	|_name = sogeking_uncommon
+		|_name:usopp_common
+		|_name:usopp_common
+	|_name = bepo_uncommon
+		|_name:chopper_common
+		|_name:luffy_common
+	|_name = sanji_common
+
+-------------------
+name = usopp_flame_special
+	|_name = sogeking_uncommon
+		|_name:usopp_common
+		|_name:usopp_common
+	|_name = sogeking_uncommon
+		|_name:usopp_common
+		|_name:usopp_common
+
+-------------------
+name = absalom_special
+	|_name = zombie_uncommon
+	|_name = zombie_uncommon
+	|_name = zombie_uncommon
+	|_name = nami_common
+

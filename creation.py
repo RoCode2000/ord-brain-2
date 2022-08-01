@@ -215,14 +215,15 @@ class HiddenPen():
 # Alternate Unit
 class Alternate:
     tier = "'A'"
-    def __init__(self, name):
+    def __init__(self, name, material1):
         self.name = name
+        self.material1 = material1
 
     # def __str__(self) -> str:
     #     return f"{self.name} {self.tier}"
 
     def base(self):
-        return f"{self.name} {self.tier}"
+        return f"{self.name} {self.tier}, \n{self.material1} "
 # Transcended
 class TranscendedQuad:
     def __init__(self, name, material1, material2, material3, material4):

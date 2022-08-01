@@ -27,6 +27,7 @@ if tier_of_unit != None:
     # Check for number of new unit
     number_of_new_unit = int(input("How many new unit of do you want to add: "))
 
+# Add Unit
 if tier_of_unit == "c":
     for x in range(number_of_new_unit):
         unit = input("Input unit such as (luffy_common): ").lower()

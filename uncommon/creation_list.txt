@@ -1,0 +1,68 @@
+-------------------
+name = zombie_uncommon
+
+-------------------
+name = ace_uncommon
+	|_name = luffy_common
+	|_name = gunman_common
+
+-------------------
+name = robin_uncommon
+	|_name = nami_common
+	|_name = sanji_common
+
+-------------------
+name = brook_uncommon
+	|_name = zoro_common
+	|_name = chopper_common
+
+-------------------
+name = sogeking_uncommon
+	|_name = usopp_common
+	|_name = usopp_common
+
+-------------------
+name = franky_uncommon
+	|_name = usopp_common
+	|_name = luffy_common
+
+-------------------
+name = fukuro_uncommon
+	|_name = swordsman_common
+	|_name = swordsman_common
+
+-------------------
+name = tashigi_uncommon
+	|_name = swordsman_common
+	|_name = gunman_common
+
+-------------------
+name = blueno_uncommon
+	|_name = gunman_common
+	|_name = gunman_common
+
+-------------------
+name = hatchan_uncommon
+	|_name = nami_common
+	|_name = gunman_common
+
+-------------------
+name = perona_uncommon
+	|_name = buggy_common
+	|_name = nami_common
+
+-------------------
+name = inazuma_uncommon
+	|_name = sanji_common
+	|_name = zoro_common
+
+-------------------
+name = bepo_uncommon
+	|_name = chopper_common
+	|_name = luffy_common
+
+-------------------
+name = chopper_uncommon
+	|_name = chopper_common
+	|_name = chopper_common
+
