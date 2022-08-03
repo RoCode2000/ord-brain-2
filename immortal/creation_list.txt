@@ -34,10 +34,7 @@ name = roger_immortal
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = smoker_special
 				|_name:gunman_common
 				|_name = tashigi_uncommon
@@ -176,10 +173,7 @@ name = roger_immortal
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = ace_special
 				|_name = ace_uncommon
 					|_name:luffy_common'C'
@@ -200,10 +194,7 @@ name = roger_immortal
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = smoker_special
 				|_name:gunman_common
 				|_name = tashigi_uncommon
@@ -374,10 +365,7 @@ name = rayleigh_immortal
 			|_name = fukuro_uncommon
 				|_name:swordsman_common
 				|_name:swordsman_common
-			|_name = buggy_special
-				|_name:buggy_common
-				|_name:buggy_common
-				|_name:buggy_common
+			|_name:buggy_common
 
 -------------------
 name = gaban_immortal
@@ -510,10 +498,7 @@ name = gaban_immortal
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = ace_special
 				|_name = ace_uncommon
 					|_name:luffy_common'C'
@@ -542,10 +527,7 @@ name = gaban_immortal
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = bon_clay_special
 				|_name = inazuma_uncommon
 					|_name:sanji_common'C'
@@ -946,10 +928,7 @@ name = garp_immortal
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = ace_special
 				|_name = ace_uncommon
 					|_name:luffy_common'C'
@@ -970,10 +949,7 @@ name = garp_immortal
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = smoker_special
 				|_name:gunman_common
 				|_name = tashigi_uncommon
@@ -1071,10 +1047,7 @@ name = sengoku_immortal
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = ace_special
 				|_name = ace_uncommon
 					|_name:luffy_common'C'
@@ -1103,10 +1076,7 @@ name = sengoku_immortal
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = bon_clay_special
 				|_name = inazuma_uncommon
 					|_name:sanji_common'C'
@@ -1267,10 +1237,7 @@ name = shiki_immortal
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = ace_special
 				|_name = ace_uncommon
 					|_name:luffy_common'C'
@@ -2110,10 +2077,7 @@ name = big_mom_immortal
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = ace_special
 				|_name = ace_uncommon
 					|_name:luffy_common'C'
@@ -2142,10 +2106,7 @@ name = big_mom_immortal
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = bon_clay_special
 				|_name = inazuma_uncommon
 					|_name:sanji_common'C'

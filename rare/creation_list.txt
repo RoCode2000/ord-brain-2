@@ -128,10 +128,7 @@ name = crocodile_rare
 		|_name = fukuro_uncommon
 			|_name:swordsman_common
 			|_name:swordsman_common
-		|_name = buggy_special
-			|_name:buggy_common
-			|_name:buggy_common
-			|_name:buggy_common
+		|_name:buggy_common
 	|_name = bon_clay_special
 		|_name = inazuma_uncommon
 			|_name:sanji_common
@@ -246,10 +243,7 @@ name = magellan_rare
 		|_name = fukuro_uncommon
 			|_name:swordsman_common
 			|_name:swordsman_common
-		|_name = buggy_special
-			|_name:buggy_common
-			|_name:buggy_common
-			|_name:buggy_common
+		|_name:buggy_common
 	|_name = ace_special
 		|_name = ace_uncommon
 			|_name:luffy_common
@@ -272,10 +266,7 @@ name = momonga_rare
 		|_name = fukuro_uncommon
 			|_name:swordsman_common
 			|_name:swordsman_common
-		|_name = buggy_special
-			|_name:buggy_common
-			|_name:buggy_common
-			|_name:buggy_common
+		|_name:buggy_common
 	|_name = smoker_special
 		|_name:gunman_common
 		|_name = tashigi_uncommon
@@ -858,10 +849,7 @@ name = vander_decken_rare
 		|_name = fukuro_uncommon
 			|_name:swordsman_common
 			|_name:swordsman_common
-		|_name = buggy_special
-			|_name:buggy_common
-			|_name:buggy_common
-			|_name:buggy_common
+		|_name:buggy_common
 	|_name = helmeppo_special
 		|_name = brook_uncommon
 			|_name:zoro_common

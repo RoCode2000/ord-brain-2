@@ -58,10 +58,7 @@ name = ace_legendary_alternate
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = smoker_special
 				|_name:gunman_common
 				|_name = tashigi_uncommon

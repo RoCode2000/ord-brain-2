@@ -428,10 +428,7 @@ name = nami_transcended
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = ace_special
 				|_name = ace_uncommon
 					|_name:luffy_common'C'
@@ -753,23 +750,31 @@ name = sanji_transcended
 
 -------------------
 name = chopper_transcended
-	|_name = cracker_legendary
-		|_name = zeff_rare
-			|_name = bon_clay_special
+	|_name = dr_hiriluk_legendary
+		|_name = chopper_horn_point_rare
+			|_name = chopper_rumble_special
+				|_name = chopper_uncommon
+					|_name:chopper_common'C'
+					|_name:chopper_common'C'
 				|_name = inazuma_uncommon
 					|_name:sanji_common'C'
 					|_name:zoro_common'C'
-				|_name = robin_uncommon
-					|_name:nami_common'C'
-					|_name:sanji_common'C'
-				|_name:nami_common
-			|_name = inazuma_special
-				|_name = inazuma_uncommon
-					|_name:sanji_common'C'
+				|_name:swordsman_common
+			|_name = helmeppo_special
+				|_name = brook_uncommon
 					|_name:zoro_common'C'
-				|_name = inazuma_uncommon
-					|_name:sanji_common'C'
-					|_name:zoro_common'C'
+					|_name:chopper_common'C'
+				|_name:zoro_common
+				|_name:sanji_common
+			|_name = law_special
+				|_name = bepo_uncommon
+					|_name:chopper_common'C'
+					|_name:luffy_common'C'
+				|_name = tashigi_uncommon
+					|_name:swordsman_common'C'
+					|_name:gunman_common'C'
+				|_name:buggy_common
+		|_name = burgess_rare
 			|_name = basil_hawkin_special
 				|_name = perona_uncommon
 					|_name:buggy_common'C'
@@ -778,46 +783,41 @@ name = chopper_transcended
 					|_name:gunman_common'C'
 					|_name:gunman_common'C'
 				|_name:usopp_common
-		|_name = sugar_rare
-			|_name = chopper_brain_special
-				|_name = chopper_uncommon
-					|_name:chopper_common'C'
-					|_name:chopper_common'C'
-				|_name = robin_uncommon
-					|_name:nami_common'C'
-					|_name:sanji_common'C'
-				|_name:buggy_common
-			|_name = zoro_special
-				|_name:zoro_common
-				|_name:zoro_common
-				|_name:zoro_common
-			|_name = perona_uncommon
-				|_name:buggy_common
-				|_name:nami_common
-			|_name:usopp_common
-		|_name = kinemon_rare
-			|_name = killer_special
-				|_name = tashigi_uncommon
-					|_name:swordsman_common'C'
+			|_name = marco_special
+				|_name = blueno_uncommon
 					|_name:gunman_common'C'
-				|_name = brook_uncommon
-					|_name:zoro_common'C'
-					|_name:chopper_common'C'
+					|_name:gunman_common'C'
+				|_name = ace_uncommon
+					|_name:luffy_common'C'
+					|_name:gunman_common'C'
+				|_name:sanji_common
+			|_name = buggy_special
 				|_name:buggy_common
-			|_name = kuro_special
+				|_name:buggy_common
+				|_name:buggy_common
+		|_name = vander_decken_rare
+			|_name = arlong_special
 				|_name = hatchan_uncommon
 					|_name:nami_common'C'
 					|_name:gunman_common'C'
-				|_name:swordsman_common
+				|_name = hatchan_uncommon
+					|_name:nami_common'C'
+					|_name:gunman_common'C'
+				|_name:luffy_common
+			|_name = jinbe_special
+				|_name = ace_uncommon
+					|_name:luffy_common'C'
+					|_name:gunman_common'C'
+				|_name = fukuro_uncommon
+					|_name:swordsman_common'C'
+					|_name:swordsman_common'C'
+				|_name:buggy_common
+			|_name = helmeppo_special
+				|_name = brook_uncommon
+					|_name:zoro_common'C'
+					|_name:chopper_common'C'
 				|_name:zoro_common
-			|_name = ace_special
-				|_name = ace_uncommon
-					|_name:luffy_common'C'
-					|_name:gunman_common'C'
-				|_name = ace_uncommon
-					|_name:luffy_common'C'
-					|_name:gunman_common'C'
-				|_name:usopp_common
+				|_name:sanji_common
 	|_name = ulti_legendary
 		|_name = chopper_horn_point_rare
 			|_name = chopper_rumble_special
@@ -1604,10 +1604,7 @@ name = shirahoshi_transcended
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = helmeppo_special
 				|_name = brook_uncommon
 					|_name:zoro_common'C'
@@ -1680,10 +1677,7 @@ name = shirahoshi_transcended
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = helmeppo_special
 				|_name = brook_uncommon
 					|_name:zoro_common'C'
@@ -1875,10 +1869,7 @@ name = aokiji_transcended
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = smoker_special
 				|_name:gunman_common
 				|_name = tashigi_uncommon
@@ -2020,10 +2011,7 @@ name = akainu_transcended
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = helmeppo_special
 				|_name = brook_uncommon
 					|_name:zoro_common'C'
@@ -2106,10 +2094,7 @@ name = kizaru_transcended
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = bon_clay_special
 				|_name = inazuma_uncommon
 					|_name:sanji_common'C'
@@ -2171,10 +2156,7 @@ name = kizaru_transcended
 			|_name = fukuro_uncommon
 				|_name:swordsman_common
 				|_name:swordsman_common
-			|_name = buggy_special
-				|_name:buggy_common
-				|_name:buggy_common
-				|_name:buggy_common
+			|_name:buggy_common
 	|_name = kizaru_rare
 		|_name = helmeppo_special
 			|_name = brook_uncommon
@@ -2701,10 +2683,7 @@ name = fujitora_transcended
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = bon_clay_special
 				|_name = inazuma_uncommon
 					|_name:sanji_common'C'
@@ -2793,10 +2772,7 @@ name = fujitora_transcended
 			|_name = fukuro_uncommon
 				|_name:swordsman_common
 				|_name:swordsman_common
-			|_name = buggy_special
-				|_name:buggy_common
-				|_name:buggy_common
-				|_name:buggy_common
+			|_name:buggy_common
 		|_name = smoker_special
 			|_name:gunman_common
 			|_name = tashigi_uncommon
@@ -3263,10 +3239,7 @@ name = jinbe_transcended
 				|_name = fukuro_uncommon
 					|_name:swordsman_common'C'
 					|_name:swordsman_common'C'
-				|_name = buggy_special
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
-					|_name:buggy_common'C'
+				|_name:buggy_common
 			|_name = helmeppo_special
 				|_name = brook_uncommon
 					|_name:zoro_common'C'

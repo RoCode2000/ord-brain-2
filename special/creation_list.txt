@@ -199,10 +199,7 @@ name = jinbe_special
 	|_name = fukuro_uncommon
 		|_name:swordsman_common
 		|_name:swordsman_common
-	|_name = buggy_special
-		|_name:buggy_common
-		|_name:buggy_common
-		|_name:buggy_common
+	|_name = buggy_common
 
 -------------------
 name = arlong_special

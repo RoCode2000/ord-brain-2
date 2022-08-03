@@ -141,10 +141,7 @@ name = jinbe_legendary
 			|_name = fukuro_uncommon
 				|_name:swordsman_common
 				|_name:swordsman_common
-			|_name = buggy_special
-				|_name:buggy_common
-				|_name:buggy_common
-				|_name:buggy_common
+			|_name:buggy_common
 		|_name = helmeppo_special
 			|_name = brook_uncommon
 				|_name:zoro_common
@@ -230,10 +227,7 @@ name = smoker_legendary
 			|_name = fukuro_uncommon
 				|_name:swordsman_common
 				|_name:swordsman_common
-			|_name = buggy_special
-				|_name:buggy_common
-				|_name:buggy_common
-				|_name:buggy_common
+			|_name:buggy_common
 		|_name = ace_special
 			|_name = ace_uncommon
 				|_name:luffy_common
@@ -254,10 +248,7 @@ name = smoker_legendary
 			|_name = fukuro_uncommon
 				|_name:swordsman_common
 				|_name:swordsman_common
-			|_name = buggy_special
-				|_name:buggy_common
-				|_name:buggy_common
-				|_name:buggy_common
+			|_name:buggy_common
 		|_name = smoker_special
 			|_name:gunman_common
 			|_name = tashigi_uncommon
@@ -458,10 +449,7 @@ name = shiki_legendary
 			|_name = fukuro_uncommon
 				|_name:swordsman_common
 				|_name:swordsman_common
-			|_name = buggy_special
-				|_name:buggy_common
-				|_name:buggy_common
-				|_name:buggy_common
+			|_name:buggy_common
 		|_name = ace_special
 			|_name = ace_uncommon
 				|_name:luffy_common
@@ -694,10 +682,7 @@ name = reiju_legendary
 			|_name = fukuro_uncommon
 				|_name:swordsman_common
 				|_name:swordsman_common
-			|_name = buggy_special
-				|_name:buggy_common
-				|_name:buggy_common
-				|_name:buggy_common
+			|_name:buggy_common
 		|_name = ace_special
 			|_name = ace_uncommon
 				|_name:luffy_common
@@ -726,10 +711,7 @@ name = reiju_legendary
 			|_name = fukuro_uncommon
 				|_name:swordsman_common
 				|_name:swordsman_common
-			|_name = buggy_special
-				|_name:buggy_common
-				|_name:buggy_common
-				|_name:buggy_common
+			|_name:buggy_common
 		|_name = bon_clay_special
 			|_name = inazuma_uncommon
 				|_name:sanji_common
@@ -1265,10 +1247,7 @@ name = fujitora_legendary
 			|_name = fukuro_uncommon
 				|_name:swordsman_common
 				|_name:swordsman_common
-			|_name = buggy_special
-				|_name:buggy_common
-				|_name:buggy_common
-				|_name:buggy_common
+			|_name:buggy_common
 		|_name = bon_clay_special
 			|_name = inazuma_uncommon
 				|_name:sanji_common
@@ -1685,10 +1664,7 @@ name = dr_hiriluk_legendary
 			|_name = fukuro_uncommon
 				|_name:swordsman_common
 				|_name:swordsman_common
-			|_name = buggy_special
-				|_name:buggy_common
-				|_name:buggy_common
-				|_name:buggy_common
+			|_name:buggy_common
 		|_name = helmeppo_special
 			|_name = brook_uncommon
 				|_name:zoro_common
@@ -1872,10 +1848,7 @@ name = ace_legendary
 			|_name = fukuro_uncommon
 				|_name:swordsman_common
 				|_name:swordsman_common
-			|_name = buggy_special
-				|_name:buggy_common
-				|_name:buggy_common
-				|_name:buggy_common
+			|_name:buggy_common
 		|_name = smoker_special
 			|_name:gunman_common
 			|_name = tashigi_uncommon
@@ -2502,10 +2475,7 @@ name = rayleigh_legendary
 		|_name = fukuro_uncommon
 			|_name:swordsman_common
 			|_name:swordsman_common
-		|_name = buggy_special
-			|_name:buggy_common
-			|_name:buggy_common
-			|_name:buggy_common
+		|_name:buggy_common
 
 -------------------
 name = pirate_ship
